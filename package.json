@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "build": "npm install"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.3.1",
+    "cypress": "^10.0.2",
+    "faker": "^5.5.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "login": {
+        "usuario_senha_invalidos": "Usuário ou senha inválidos"
+    },
+    "main": {
+        "bem_vindo": "Oi, QA :)"
+    }
+}
+  
